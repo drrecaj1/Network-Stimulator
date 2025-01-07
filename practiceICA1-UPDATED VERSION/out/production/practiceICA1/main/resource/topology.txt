@@ -1,0 +1,6 @@
+Device,Computer,PC1
+Device,Router,Router1
+Device,Computer,PC3
+Connection,Wired,PC1,Router1,100
+Connection,Wireless,Router1,PC3,54,90
+
